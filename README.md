@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Implementing advanced UI/UX for web and desktop applications**
 
-- 📫 How to reach me : **tharusurasinghe0525@gmail.com**
+- 📫 How to reach me : **tharusurasinghe0525@gmail.com** 
 
 <!--- stats & Trophy (start) -->
 <p align="center">
