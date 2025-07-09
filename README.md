@@ -3,13 +3,9 @@
      
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharushikas&label=Profile%20views&color=0e75b6&style=flat" alt="tharushikas"/>  </p>
        
-- 🔭 I’m currently working on **Real-time Train Tracking System**     
-      
-- 🌱 I’m currently learning **Spring Boot, Dart and advanced Frontend Development **
+- 🔭 I’m currently working as an Applied AI Engineer Intern @Kaizens Gruop.   
                      
-- 👯 I’m looking to collaborate on **Open-source Machine Learning projects**  
-
-- 🤝 I’m looking for help with **Implementing advanced UI/UX for web and desktop applications**
+- 👯 I’m looking to collaborate on **Open-source Machine Learning/ AI projects**  
 
 - 📫 How to reach me : **tharusurasinghe0525@gmail.com**  
 
